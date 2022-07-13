@@ -11,4 +11,4 @@ function greaterNum(n1,n2) {
 }
 
 console.log(greaterNum(num1,num2));
-console.log(greaterNum(90,1));
+console.log(greaterNum(77,1));
