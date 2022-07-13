@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(151, 200, 255);
+    color: #000;
+    text-align: center;
+}
+
+h1 {
+    color: inherit;
+    text-decoration: underline;
+}
+
+button {
+    width: 60px;
+    height: 30px;
+}
+
+#dodaj {
+    background-color: rgb(201, 44, 182);
+}
+
+#dodaj:hover {
+    background-color: rgb(115, 0, 125);
+}
+
+#usun {
+    background-color: rgb(255, 102, 0);
+}
+
+#usun:hover {
+    background-color: rgb(181, 72, 0);
+}
