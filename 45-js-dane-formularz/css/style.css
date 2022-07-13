@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(156, 200, 255);
+    color: #fff;
+    text-align: center;
+}
+
+label {
+    color: rgb(50, 115, 255);
+    font-size: 16px;
+}
+
+p {
+    color: rgb(50, 115, 255);
+    font-size: 18px;
+}
