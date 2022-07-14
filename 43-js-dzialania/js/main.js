@@ -24,9 +24,9 @@ function calculator(n1,n2) {
     }
 }
 
-console.log(calculator(2,2));
-console.log(calculator(7,8));
-console.log(calculator(-2,-2));
-console.log(calculator(90,3));
-console.log(calculator(3,-2));
-console.log(calculator(-2,3));
+calculator(2,2);
+calculator(7,8);
+calculator(-2,-2);
+calculator(90,3);
+calculator(3,-2);
+calculator(-2,3);
